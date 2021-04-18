@@ -1,6 +1,6 @@
 # GalleryPlus Documentation
 
-This documentation assumes you are already familiar with RenPy's built-in Gallery class, its fields and methods. For that, please see the official RenPy documentation!
+This documentation assumes you are already familiar with RenPy's built-in Gallery class, its fields and methods. For that, please see the [official RenPy documentation](https://www.renpy.org/doc/html/rooms.html)!
 
 ## Looping images
 class `GalleryPlus`
