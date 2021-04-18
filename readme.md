@@ -3,10 +3,10 @@
 GalleryPlus is a class that extends the functionality of RenPy's built-in Gallery class.  
 Developed on Renpy 7.4.4.1439.
 
-To use it, paste the gallery_definition.rpy file somewhere in the game folder of your RenPy project.
+To use it, it's enough to paste the gallery_definition.rpy file somewhere in the game folder of your RenPy project.
 
 The gallery_example.rpy provides a working example, with defining color images (no outside resource needed!) and a gallery screen with several pages.  
-Again, paste the file into your game folder, create a button that opens screen gallery, and get to testing it!
+Downloading and pasting that into your own RenPy project (and creating a button that opens screen gallery) should be enough for testing. For your convenience, this folder contains a full, mostly bare RenPy project that includes this gallery. 
 
 ## Additional features of GalleryPlus:
 * *looping* of the viewed images: show first image again after last (and vica versa), rather than exiting
