@@ -13,7 +13,7 @@ Downloading and pasting that into your own RenPy project (and creating a button 
 * NextButton and PreviousButton actions implemented for faster navigation
 * a *pages* system: allows you to group your images into collections that can be navigated separately or together, for the convenience of handling several gallery pages from one place
 * a mode to only exit viewer mode on explicit return: if looping is off, stay on the same image when you reach the last (or first) showable image
-* For a detailed documentation of these features, go into the code and find documentation.md!
+* For a detailed documentation of these features, go into the code and find [documentation.md](https://github.com/cheonbyeol/RenPy-GalleryPlus/blob/main/documentation.md)!
 
 ## Updated gallery viewer and gallery navigation screens
 * includes the new action buttons
