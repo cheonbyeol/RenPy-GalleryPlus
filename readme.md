@@ -29,7 +29,7 @@ Downloading and pasting that into your own RenPy project (and creating a button 
 
 ## Disclaimer, etc.
 The code is provided "as is", no warranty included.  
-It's licensed under LGPLv2.1, I'm no lawyer, but that should give you some freedom to use and modify it.
+It's licensed under the MIT licence.
 
 ## Contact
 Should you have any questions, some constructive input or want to express your heartfelt thanks for me, you can open an Issue right here, contact me by email at cheonbyeolshinji@gmail.com or on Discord at cheonbyeol#3602
